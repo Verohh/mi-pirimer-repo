@@ -1,1 +1,1 @@
-# mi-pirimer-repo
+# mi-primer-repo
